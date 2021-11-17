@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "url": "https://thanos.savoirguinee.com/git/",
+      "Author": "rougeo",
+      "blog": "SAVOIR-GUINEE",
+      "title": "I - Git : Les bases",
+      "description": "Parce que le partage du code est essentiel. Parce que l'open source repose sur la communauté. Découvrez les bases de git.",
+      "labels": [
+        "git", "devops"
+      ],
+      "language": "fr",
+      "enabled": true
+    }, {
+      "url": "https://thanos.savoirguinee.com/git-gitflow/",
+      "Author": "Amadoubat19",
+      "blog": "SAVOIR-GUINEE",
+      "title": "II - Git: Gitflow",
+      "description": "Gitflow est un wrapper pour git qui est extrêmement utile pour le Devops.",
+      "labels": [
+        "git", "devops"
+      ],
+      "language": "fr",
+      "enabled": true
+    }, {
+      "url": "https://www.kaherecode.com/tutorial/commencer-la-programmation-avec-spring-batch",
+      "Author": "Mamadou Pathé DIALLO",
+      "blog": "KAHERECODE",
+      "title": "Commencer la programmation avec SPRING BATCH",
+      "description": "Spring Batch est un framework open source pour le traitement par lots.",
+      "labels": [
+        "Spring Boot", "Spring Batch"
+      ],
+      "language": "fr",
+      "enabled": true
+    }
+  ]
+}

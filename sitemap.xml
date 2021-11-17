@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://gnakrydev.github.io/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gnakrydev.github.io/app-privacy/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gnakrydev.github.io/gnakrydev-cli/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
